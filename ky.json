@@ -1,0 +1,34 @@
+[
+  {
+    "State": "KY",
+    "County": "Harrison",
+    "City": "Cynthiana",
+    "Latitude": 38.392899,
+    "Longitude": -84.292503,
+    "Confirmed Cases": 1
+  },
+  {
+    "State": "kY",
+    "County": "Harrison",
+    "City": "",
+    "Latitude": 38.56227,
+    "Longitude": -84.15597,
+    "Confirmed Cases": 4
+  },
+  {
+    "State": "KY",
+    "County": "Jefferson",
+    "City": "Louisville",
+    "Latitude": 38.252666,
+    "Longitude": -85.758453,
+    "Confirmed Cases": 1
+  },
+  {
+    "State": "KY",
+    "County": "Fayette",
+    "City": "Lexington",
+    "Latitude": 38.040585,
+    "Longitude": -84.503716,
+    "Confirmed Cases": 2
+  }
+]
