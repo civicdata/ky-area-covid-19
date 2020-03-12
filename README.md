@@ -10,7 +10,8 @@ Data,thus far, has been sourced from:
     [https://chfs.ky.gov/agencies/dph/pages/covid19.aspx](https://chfs.ky.gov/agencies/dph/pages/covid19.aspx)
     [https://www.lexingtonky.gov/coronavirus-response](https://www.lexingtonky.gov/coronavirus-response)  
     [https://www.cynthianademocrat.com/content/harrison-county-ground-zero-first-covid-19-case-kentucky](https://www.cynthianademocrat.com/content/harrison-county-ground-zero-first-covid-19-case-kentucky)  
-    [https://www.courier-journal.com/story/news/local/2020/03/10/coronavirus-beshear-wants-kentucky-nursing-homes-restrict-visits/5006147002/](https://www.courier-journal.com/story/news/local/2020/03/10/coronavirus-beshear-wants-kentucky-nursing-homes-restrict-visits/5006147002/)    
+    [https://www.courier-journal.com/story/news/local/2020/03/10/coronavirus-beshear-wants-kentucky-nursing-homes-restrict-visits/5006147002/](https://www.courier-journal.com/story/news/local/2020/03/10/coronavirus-beshear-wants-kentucky-nursing-homes-restrict-visits/5006147002/)
+    https://www.wave3.com/2020/03/12/beshear-urges-kentucky-schools-close-weeks-amid-pandemic/     
 
 If you have any questions, or suggestions, please open an issue on this repo.  
 
