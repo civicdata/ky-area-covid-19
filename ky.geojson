@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Harrison",
+            "City": "Cynthiana",
+            "Latitude": 38.392899,
+            "Longitude": -84.292503,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.292503, 38.392899]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Harrison",
+            "City": "",
+            "Latitude": 38.56227,
+            "Longitude": -84.15597,
+            "Confirmed Cases": 4
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.15597, 38.56227]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Jefferson",
+            "City": "Louisville",
+            "Latitude": 38.252666,
+            "Longitude": -85.758453,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.758453, 38.252666]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Jefferson",
+            "City": "Louisville",
+            "Latitude": 38.256859,
+            "Longitude": -85.755310,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.75531, 38.256859]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Fayette",
+            "City": "Lexington",
+            "Latitude": 38.040585,
+            "Longitude": -84.503716,
+            "Confirmed Cases": 3
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.503716, 38.040585]
+        }
+    }]
+}
