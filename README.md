@@ -4,6 +4,8 @@ This is a doc to track cases to power the MapBox tile located [here](https://api
 
 To contribute, please fork and then open a pull request. Please only enter data that you can source.  
 
+Please include at least one link to your sourced data in your pull request message and in this README file.  
+
 You can find latitude and longitude here: https://www.latlong.net or mapbox  
 
 Data,thus far, has been sourced from:
@@ -11,7 +13,8 @@ Data,thus far, has been sourced from:
     [https://www.lexingtonky.gov/coronavirus-response](https://www.lexingtonky.gov/coronavirus-response)  
     [https://www.cynthianademocrat.com/content/harrison-county-ground-zero-first-covid-19-case-kentucky](https://www.cynthianademocrat.com/content/harrison-county-ground-zero-first-covid-19-case-kentucky)  
     [https://www.courier-journal.com/story/news/local/2020/03/10/coronavirus-beshear-wants-kentucky-nursing-homes-restrict-visits/5006147002/](https://www.courier-journal.com/story/news/local/2020/03/10/coronavirus-beshear-wants-kentucky-nursing-homes-restrict-visits/5006147002/)
-    https://www.wave3.com/2020/03/12/beshear-urges-kentucky-schools-close-weeks-amid-pandemic/     
+    https://www.wave3.com/2020/03/12/beshear-urges-kentucky-schools-close-weeks-amid-pandemic/  
+    https://wfpl.org/live-coverage-coronavirus-in-the-louisville-area/     
 
 If you have any questions, or suggestions, please open an issue on this repo.  
 
