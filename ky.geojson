@@ -22,7 +22,7 @@
             "City": "",
             "Latitude": 38.56227,
             "Longitude": -84.15597,
-            "Confirmed Cases": 4
+            "Confirmed Cases": 5
         },
         "geometry": {
             "type": "Point",
