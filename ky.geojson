@@ -70,5 +70,20 @@
             "type": "Point",
             "coordinates": [-84.503716, 38.040585]
         }
-    }]
+    }, {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Montgomery",
+            "City": "",
+            "Latitude": 38.045030,
+            "Longitude": -83.942620,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.942620, 38.045030]
+        }
+    }
+]
 }

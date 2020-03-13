@@ -38,5 +38,13 @@
     "Latitude": 38.040585,
     "Longitude": -84.503716,
     "Confirmed Cases": 3
-  }
+},
+{
+  "State": "KY",
+  "County": "Montgomery",
+  "City": "",
+  "Latitude": 38.045030,
+  "Longitude": -83.942620,
+  "Confirmed Cases": 1
+}
 ]
