@@ -56,7 +56,22 @@
             "type": "Point",
             "coordinates": [-85.75531, 38.256859]
         }
-    }, {
+    },{
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Jefferson",
+            "City": "Louisville",
+            "Latitude": 38.248340,
+            "Longitude":-85.745940,
+            "Confirmed Cases": 3
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.745940, 38.248340]
+        }
+    },
+    {
         "type": "Feature",
         "properties": {
             "State": "KY",

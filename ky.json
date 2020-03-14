@@ -33,6 +33,14 @@
   },
   {
     "State": "KY",
+    "County": "Jefferson",
+    "City": "Louisville",
+    "Latitude": 38.248340,
+    "Longitude":-85.745940,
+    "Confirmed Cases": 3
+  },
+  {
+    "State": "KY",
     "County": "Fayette",
     "City": "Lexington",
     "Latitude": 38.040585,
