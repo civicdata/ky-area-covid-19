@@ -62,5 +62,13 @@
   "Latitude": 38.196180,
   "Longitude": -85.728740,
   "Confirmed Cases": 1
+},
+{
+  "State": "KY",
+  "County": "Nelson",
+  "City": "",
+  "Latitude": 37.781640,
+  "Longitude": -85.492600,
+  "Confirmed Cases": 1
 }
 ]

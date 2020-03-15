@@ -18,7 +18,8 @@ Data,thus far, has been sourced from:
     [https://www.kentucky.com/news/politics-government/article241165146.html](https://www.kentucky.com/news/politics-government/article241165146.html)  
     [https://www.kentucky.com/news/politics-government/article241165146.html](https://www.kentucky.com/news/politics-government/article241165146.html)  
     [https://www.wlky.com/article/covid-19-in-ky-in-the-latest-headlines-and-resources-to-keep-you-informed-kentucky-indiana/31430562](https://www.wlky.com/article/covid-19-in-ky-in-the-latest-headlines-and-resources-to-keep-you-informed-kentucky-indiana/31430562)  
-    [https://www.kentucky.com/news/health-and-medicine/article241205151.html](https://www.kentucky.com/news/health-and-medicine/article241205151.html)  
+    [https://www.kentucky.com/news/health-and-medicine/article241205151.html](https://www.kentucky.com/news/health-and-medicine/article241205151.html)
+    [https://www.wlky.com/article/covid-19-in-ky-in-the-latest-headlines-and-resources-to-keep-you-informed-kentucky-indiana/31430562](https://www.wlky.com/article/covid-19-in-ky-in-the-latest-headlines-and-resources-to-keep-you-informed-kentucky-indiana/31430562)  
 
 If you have any questions, or suggestions, please open an issue on this repo.  
 

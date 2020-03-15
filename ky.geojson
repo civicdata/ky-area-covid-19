@@ -114,6 +114,21 @@
             "type": "Point",
             "coordinates": [-85.728740, 38.196180]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Nelson",
+            "City": "",
+            "Latitude": 37.781640,
+            "Longitude": -85.492600,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.492600, 37.781640]
+        }
     }
 ]
 }
