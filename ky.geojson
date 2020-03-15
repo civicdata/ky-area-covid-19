@@ -22,7 +22,7 @@
             "City": "",
             "Latitude": 38.56227,
             "Longitude": -84.15597,
-            "Confirmed Cases": 5
+            "Confirmed Cases": 6
         },
         "geometry": {
             "type": "Point",
@@ -64,7 +64,7 @@
             "City": "Louisville",
             "Latitude": 38.248340,
             "Longitude":-85.745940,
-            "Confirmed Cases": 3
+            "Confirmed Cases": 2
         },
         "geometry": {
             "type": "Point",
@@ -79,7 +79,7 @@
             "City": "Lexington",
             "Latitude": 38.040585,
             "Longitude": -84.503716,
-            "Confirmed Cases": 3
+            "Confirmed Cases": 5
         },
         "geometry": {
             "type": "Point",
@@ -98,6 +98,21 @@
         "geometry": {
             "type": "Point",
             "coordinates": [-83.942620, 38.045030]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Bourbon",
+            "City": "",
+            "Latitude": 38.196180,
+            "Longitude": -85.728740,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.728740, 38.196180]
         }
     }
 ]

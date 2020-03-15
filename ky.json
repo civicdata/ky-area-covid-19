@@ -13,7 +13,7 @@
     "City": "",
     "Latitude": 38.56227,
     "Longitude": -84.15597,
-    "Confirmed Cases": 5
+    "Confirmed Cases": 6
   },
   {
     "State": "KY",
@@ -45,7 +45,7 @@
     "City": "Lexington",
     "Latitude": 38.040585,
     "Longitude": -84.503716,
-    "Confirmed Cases": 3
+    "Confirmed Cases": 5
 },
 {
   "State": "KY",
@@ -53,6 +53,14 @@
   "City": "",
   "Latitude": 38.045030,
   "Longitude": -83.942620,
+  "Confirmed Cases": 1
+},
+{
+  "State": "KY",
+  "County": "Bourbon",
+  "City": "",
+  "Latitude": 38.196180,
+  "Longitude": -85.728740,
   "Confirmed Cases": 1
 }
 ]
