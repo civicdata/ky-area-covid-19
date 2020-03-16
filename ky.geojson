@@ -64,7 +64,7 @@
             "City": "Louisville",
             "Latitude": 38.248340,
             "Longitude":-85.745940,
-            "Confirmed Cases": 2
+            "Confirmed Cases": 4
         },
         "geometry": {
             "type": "Point",
@@ -128,6 +128,21 @@
         "geometry": {
             "type": "Point",
             "coordinates": [-85.492600, 37.781640]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Clark",
+            "City": "",
+            "Latitude": 38.342079,
+            "Longitude": -85.642723,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.642723, 38.342079]
         }
     }
 ]
