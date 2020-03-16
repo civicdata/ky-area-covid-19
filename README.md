@@ -21,6 +21,7 @@ Data,thus far, has been sourced from:
     [https://www.kentucky.com/news/health-and-medicine/article241205151.html](https://www.kentucky.com/news/health-and-medicine/article241205151.html)
     [https://www.wlky.com/article/covid-19-in-ky-in-the-latest-headlines-and-resources-to-keep-you-informed-kentucky-indiana/31430562](https://www.wlky.com/article/covid-19-in-ky-in-the-latest-headlines-and-resources-to-keep-you-informed-kentucky-indiana/31430562)  
     [https://www.lex18.com/news/kentucky-up-to-20-cases-of-covid-19](https://www.lex18.com/news/kentucky-up-to-20-cases-of-covid-19)  
+    [https://www.kentucky.com/news/coronavirus/article241238401.html](https://www.kentucky.com/news/coronavirus/article241238401.html)  
 
 If you have any questions, or suggestions, please open an issue on this repo.  
 

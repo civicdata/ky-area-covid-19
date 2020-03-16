@@ -64,7 +64,7 @@
             "City": "Louisville",
             "Latitude": 38.248340,
             "Longitude":-85.745940,
-            "Confirmed Cases": 4
+            "Confirmed Cases": 5
         },
         "geometry": {
             "type": "Point",
