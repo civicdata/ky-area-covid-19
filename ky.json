@@ -37,7 +37,7 @@
     "City": "Louisville",
     "Latitude": 38.248340,
     "Longitude":-85.745940,
-    "Confirmed Cases": 5
+    "Confirmed Cases": 9
   },
   {
     "State": "KY",
@@ -45,7 +45,7 @@
     "City": "Lexington",
     "Latitude": 38.040585,
     "Longitude": -84.503716,
-    "Confirmed Cases": 5
+    "Confirmed Cases": 6
 },
 {
   "State": "KY",
@@ -53,7 +53,7 @@
   "City": "",
   "Latitude": 38.045030,
   "Longitude": -83.942620,
-  "Confirmed Cases": 1
+  "Confirmed Cases": 2
 },
 {
   "State": "KY",
@@ -61,7 +61,7 @@
   "City": "",
   "Latitude": 38.196180,
   "Longitude": -85.728740,
-  "Confirmed Cases": 1
+  "Confirmed Cases": 2
 },
 {
   "State": "KY",
@@ -77,6 +77,38 @@
   "City": "",
   "Latitude": 38.342079,
   "Longitude": -85.642723,
+  "Confirmed Cases": 1
+},
+{
+  "State": "KY",
+  "County": "Franklin",
+  "City": "",
+  "Latitude": 38.173800,
+  "Longitude": -85.838610,
+  "Confirmed Cases": 1
+},
+{
+  "State": "KY",
+  "County": "Kenton",
+  "City": "",
+  "Latitude": 38.193800,
+  "Longitude": -85.715490,
+  "Confirmed Cases": 1
+},
+{
+  "State": "KY",
+  "County": "Warren",
+  "City": "",
+  "Latitude": 38.194570,
+  "Longitude": -85.712430,
+  "Confirmed Cases": 1
+},
+{
+  "State": "KY",
+  "County": "WEDCO",
+  "City": "",
+  "Latitude": 38.923250,
+  "Longitude": -84.666760,
   "Confirmed Cases": 1
 }
 ]
