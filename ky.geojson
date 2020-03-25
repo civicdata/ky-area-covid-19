@@ -22,7 +22,7 @@
             "City": "",
             "Latitude": 38.56227,
             "Longitude": -84.15597,
-            "Confirmed Cases": 6
+            "Confirmed Cases": 11
         },
         "geometry": {
             "type": "Point",
@@ -64,7 +64,7 @@
             "City": "Louisville",
             "Latitude": 38.248340,
             "Longitude":-85.745940,
-            "Confirmed Cases": 9
+            "Confirmed Cases": 38
         },
         "geometry": {
             "type": "Point",
@@ -79,7 +79,7 @@
             "City": "Lexington",
             "Latitude": 38.040585,
             "Longitude": -84.503716,
-            "Confirmed Cases": 6
+            "Confirmed Cases": 28
         },
         "geometry": {
             "type": "Point",
@@ -138,7 +138,7 @@
             "City": "",
             "Latitude": 38.342079,
             "Longitude": -85.642723,
-            "Confirmed Cases": 2
+            "Confirmed Cases": 3
         },
         "geometry": {
             "type": "Point",
@@ -168,7 +168,7 @@
             "City": "",
             "Latitude": 38.193800,
             "Longitude": -85.715490,
-            "Confirmed Cases": 1
+            "Confirmed Cases": 8
         },
         "geometry": {
             "type": "Point",
@@ -183,12 +183,357 @@
             "City": "",
             "Latitude": 38.194570,
             "Longitude": -85.712430,
-            "Confirmed Cases": 1
+            "Confirmed Cases": 6
         },
         "geometry": {
             "type": "Point",
             "coordinates": [-85.712430, 38.194570]
         }
-    }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Kenton",
+            "City": "",
+            "Latitude": 38.193800,
+            "Longitude": -85.715490,
+            "Confirmed Cases": 8
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.715490, 38.193800]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "WEDCO",
+            "City": "",
+            "Latitude": 38.923250,
+            "Longitude": -84.666760,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.666760, 38.923250]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Oldham",
+            "City": "",
+            "Latitude": 38.400990,
+            "Longitude": -85.402830,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.402830, 38.400990]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Scott",
+            "City": "",
+            "Latitude": 38.236250,
+            "Longitude": -84.570790,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.570790, 38.236250]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Franklin",
+            "City": "",
+            "Latitude": 38.190450,
+            "Longitude": -85.007340,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.007340, 38.190450]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Anderson",
+            "City": "",
+            "Latitude": 39.050940,
+            "Longitude": -84.577560,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.577560, 39.050940]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Nelson",
+            "City": "",
+            "Latitude": 37.781640,
+            "Longitude": -85.492600,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.492600, 37.781640]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Hardin",
+            "City": "",
+            "Latitude": 38.272390,
+            "Longitude": -85.801010,
+            "Confirmed Cases": 2
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.801010, 38.272390]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Daviess",
+            "City": "",
+            "Latitude": 37.772700,
+            "Longitude": -87.111030,
+            "Confirmed Cases": 12
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.111030, 37.772700]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Henderson",
+            "City": "",
+            "Latitude": 38.227040,
+            "Longitude": -83.220240,
+            "Confirmed Cases": 2
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.220240, 38.227040]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "McCraken",
+            "City": "",
+            "Latitude": 36.868010,
+            "Longitude": -88.627670,
+            "Confirmed Cases": 2
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-88.627670, 36.868010]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Calloway",
+            "City": "",
+            "Latitude": 36.656320,
+            "Longitude": -88.487100,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-88.487100, 36.656320]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Christian",
+            "City": "",
+            "Latitude": 36.878580,
+            "Longitude": -87.492080,
+            "Confirmed Cases": 3
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.492080, 36.878580]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Lyon",
+            "City": "",
+            "Latitude": 36.960200,
+            "Longitude": -88.192360,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-88.192360, 36.960200]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Muhlenburg",
+            "City": "",
+            "Latitude": 38.199370,
+            "Longitude": -85.653530,
+            "Confirmed Cases": 2
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.653530, 38.199370]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Logan",
+            "City": "",
+            "Latitude": 36.843440,
+            "Longitude": -86.850410,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.850410, 36.843440]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Simpson",
+            "City": "",
+            "Latitude": 36.732550,
+            "Longitude": -86.547460,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.547460, 36.732550]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Allen",
+            "City": "",
+            "Latitude": 37.090080,
+            "Longitude": -88.668690,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-88.668690, 37.090080]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Pulalski",
+            "City": "",
+            "Latitude": 38.199370,
+            "Longitude": -85.653530,
+            "Confirmed Cases": 4
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.653530, 38.199370]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Breathitt",
+            "City": "",
+            "Latitude": 37.458930,
+            "Longitude": -83.208310,
+            "Confirmed Cases": 2
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.208310, 37.458930]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Martin",
+            "City": "",
+            "Latitude": 37.557440,
+            "Longitude": -82.770460,
+            "Confirmed Cases": 1
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.770460, 37.557440]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Menifee",
+            "City": "",
+            "Latitude": 37.848670,
+            "Longitude": -83.498260,
+            "Confirmed Cases": 2
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.498260, 37.848670]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "State": "KY",
+            "County": "Madison",
+            "City": "",
+            "Latitude": 38.199370,
+            "Longitude": -85.653530,
+            "Confirmed Cases": 2
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.653530, 38.199370]
+        }
+    },
 ]
 }
